@@ -1,6 +1,3 @@
 This is FileB
-<<<<<<< HEAD
 Lets make a change
-=======
 Making Changes to FileB
->>>>>>> FeatureA
